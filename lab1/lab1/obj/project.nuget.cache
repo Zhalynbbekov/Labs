@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PC5hNHVf+Kp/PbAt8hLMM/NbFBAG0j9t67+5+MuCDwqpeOQ0hca1w959K8wv7JGN0Y1upsWKffu+yEB9Kr/1lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Labs\\lab1\\lab1\\lab1.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512"
+  ],
+  "logs": []
+}
